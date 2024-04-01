@@ -1,0 +1,1 @@
+# Notcoin-auto-miner-1.0
